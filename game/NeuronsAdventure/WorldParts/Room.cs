@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NeuronsAdventure.World
+namespace NeuronsAdventure.WorldParts
 {
     class Room
     {
